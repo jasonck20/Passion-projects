@@ -2,7 +2,7 @@
 # Title: Calculator app 
 # Code author: Jason Christopher
 # Description: Simple calculator app 
-
+# Add sin, cos, tan functionalities
 
 # Start of code 
 
